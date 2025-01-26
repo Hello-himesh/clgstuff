@@ -1,0 +1,2 @@
+# clgstuff
+VIT BHOPAL CSE AIML YR-1,SEM-2
